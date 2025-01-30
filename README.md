@@ -27,9 +27,9 @@ These instructions will guide you on how to get the project up and running on yo
 
 3. Enter your wallet private key in the .env file
 
- `PRIVATE_KEY=[YOUR_PRIVATE_KEY]`
+ `PRIVATE_KEY=[ PCJKBK4NRDPD1EXMFGCUAU8DQEDI96E1NG]
 
- 
+ PCJKBK4NRDPD1EXMFGCUAU8DQEDI96E1NG
 
 ### Deploy
 
